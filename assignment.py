@@ -91,4 +91,3 @@ root.left.right.right = Node(14)
 target = root.left.right 
 printkDistanceNode(root, target, 2) 
 
-# This code is contributed by Nikhil Kumar Singh(nickzuck_007) 
